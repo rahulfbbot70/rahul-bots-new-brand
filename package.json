@@ -24,7 +24,7 @@
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
     "@dark-yasiya/scrap": "1.0.1",
-    "@whiskeysockets/baileys": "^6.7.19",
+    "@whiskeysockets/baileys":"npm:asitha-new-v99",
     "@dark-yasiya/yt-dl.js": "latest",
     "adm-zip": "^0.5.16",
     "unzipper": "^0.10.11",
