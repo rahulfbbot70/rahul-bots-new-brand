@@ -24,10 +24,11 @@
   "dependencies": {
     "@vitalets/google-translate-api": "^9.2.0",
     "@dark-yasiya/scrap": "1.0.1",
+    "@whiskeysockets/baileys": "^6.7.19",
     "@dark-yasiya/yt-dl.js": "latest",
     "adm-zip": "^0.5.16",
     "unzipper": "^0.10.11",
-    "axios": "^1.2.5",
+    "axios": "^1.10.0",
     "buffer": "^6.0.3",
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.3.1",
@@ -42,8 +43,7 @@
     "form-data": "^4.0.1",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.1.0",
-     "sharp":"0.32.6", 
-     "@whiskeysockets/baileys":"github:Drayyyxd/XD-Baileys",
+    "sharp":"0.32.6", 
     "gifted-dls": "*",
     "git": "0.1.5",
     "isolated-vm": "^5.0.3",
@@ -53,7 +53,7 @@
     "moment-timezone": "^0.5.45",
     "node-fetch": "^3.3.2",
     "path": "latest",
-    "pino": "^7.0.5",
+    "pino": "^7.11.0",
     "pm2": "latest",
     "qrcode-terminal": "^0.12.0",
     "util": "^0.12.5",
@@ -63,10 +63,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itx-alii-raza/ALI-MD.git"
+    "url": "git+https://github.com/INDXDE/ALI-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/itx-alii-raza/ALI-MD/issues"
+    "url": "https://github.com/ALI-INXIDE/ALI-MD/issues"
   },
-  "homepage": "https://github.com/itx-alii-raza/ALI-MD#readme"
+  "homepage": "https://github.com/ALI-INXIDE/ALI-MD#readme"
 }
