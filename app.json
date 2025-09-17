@@ -30,16 +30,6 @@
       "value": ""
     },
     
-    "OWNER_NAME": {
-      "description": "Put Owner Name Here",
-      "required": true,
-      "value": "ALI INXIDE"
-    },
-    "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here ie 923xxxxx",
-      "required": true,
-      "value": "9230035xxx"
-    },
     "AUTO_READ_STATUS": {
       "description": "Make it 'true' if you want bot to view statuses. You can set up this later using .autoview",
       "required": true,
