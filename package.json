@@ -54,7 +54,7 @@
     "node-fetch": "^3.3.2",
     "path": "latest",
     "pino": "^7.11.0",
-    "pm2": "latest",
+    "pm2": "^6.0.5",
     "qrcode-terminal": "^0.12.0",
     "util": "^0.12.5",
     "wa-sticker-formatter": "^4.4.4",
