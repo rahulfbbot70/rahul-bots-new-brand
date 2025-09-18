@@ -91,7 +91,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="">
-<a href='https://github.com/itx-alii-raza/ALI-MD/archive/refs/heads/main.zip' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Panel Zip-000000?style=for-the-badge&logo=bot-hosting&logoColor=white&labelColor=000000&color=blue'/< width=150 height=28/p></a>
+<a href='https://github.com/sumon9836/ALI-MD_panel_file/archive/refs/heads/main.zip' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Panel Zip-000000?style=for-the-badge&logo=bot-hosting&logoColor=white&labelColor=000000&color=blue'/< width=150 height=28/p></a>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
