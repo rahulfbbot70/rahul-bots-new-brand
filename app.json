@@ -2,10 +2,10 @@
   "name": "ALI-MD",
   "version": "6.0.0",
   "description": "I am ALI MD, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
-  "website": "https://files.catbox.moe/6ku0eo.jpg",
-  "logo": "https://files.catbox.moe/6ku0eo.jpg",
+  "website": "https://files.catbox.moe/ykdtkm.jpeg",
+  "logo": "https://files.catbox.moe/52699c.jpg",
   "keywords": ["ali-md", "ali mdx","ali mdxi","ALI-MDI"],
-  "repository": "https://github.com/itx-alii-raza/ALI-MD",
+  "repository": "https://github.com/Mayelprince/PRINCE-MDXI",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -29,7 +29,11 @@
       "required": false,
       "value": ""
     },
-    
+    "CHAT_BOT": {
+      "description": "Put value to 'true' to enablle for all chats or 'inbox' to ebanle in pm(inbox) chats only or 'groups' to enable in groups only else false. You can set up this later using .chatbot",
+      "required": false,
+      "value": ""
+    },
     "AUTO_READ_STATUS": {
       "description": "Make it 'true' if you want bot to view statuses. You can set up this later using .autoview",
       "required": true,
@@ -63,7 +67,7 @@
     "PRESENCE": {
       "description": "Put 'online' for always online, 'typing' for always typing a message, 'recording' for always recording audio or 'null' to maintain your presence. You can set up this later using .presence",
       "required": true,
-      "value": "null"
+      "value": "online"
     },
     
     "ANTILINK": {
@@ -110,7 +114,7 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "𝐋𝐄𝐎-𝐌𝐃 𝐁𝐎𝐓"
     },
       "BOT_PIC": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
