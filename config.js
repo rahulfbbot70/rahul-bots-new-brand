@@ -1,4 +1,3 @@
-
 // change only what you are ask to change else bit won't work thanks for your understanding 
 const fs = require('fs'), 
       dotenv = fs.existsSync('config.env') ? require('dotenv').config({ path: '/.env' }) : undefined,
@@ -29,8 +28,6 @@ BAD_WORDS: process.env.BAD_WORDS || "fuck, pussy, anus, idiot", // Add Yours Sep
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "false",
-AUTO_STICKER: process.env.AUTO_STICKER || "false",
-AUTO_REPLY: process.env.AUTO_REPLY || "false",
 BOT_NAME: process.env.BOT_NAME || "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪", //  don't change 
 BOT_PIC: process.env.BOT_PIC || "https://files.catbox.moe/2ka956.jpg", //  don't change 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
